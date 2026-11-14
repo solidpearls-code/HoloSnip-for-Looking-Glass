@@ -1,0 +1,12 @@
+HoloSnip
+Copyright (c) 2026 solidpearls
+
+You may use HoloSnip free of charge for non-commercial purposes, and pass on the unmodified zip together with
+this file. You may not sell it, and you may not modify, decompile or reverse engineer it, except as far as the law
+allows.
+
+The models in the models folder and the libraries next to HoloSnip come under their own licenses, not this one. The
+licenses folder lists them and holds their texts.
+
+HOLOSNIP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF HOLOSNIP.
