@@ -1,6 +1,10 @@
 # HoloSnip for Looking Glass
 
+![Press Ctrl+Alt+S and drag around a picture on your screen, and it is on your Looking Glass in 3D](images/hero.png)
+
 Press `Ctrl+Alt+S` and drag around anything on your screen. About a second later, it is on your Looking Glass in 3D.
+
+![How it works: the snipped picture becomes 3D Gaussians, which are drawn as a quilt of views for the Looking Glass](images/how-it-works.png)
 
 Free for non-commercial use. Unofficial, not affiliated with Looking Glass Factory.
 
