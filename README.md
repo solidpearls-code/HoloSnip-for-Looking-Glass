@@ -11,7 +11,7 @@ Free for non-commercial use. Unofficial, not affiliated with Looking Glass Facto
 
 ## Install
 
-Download the zip from [Releases](https://github.com/solidpearls-code/HoloSnip/releases), extract it to a folder you can write to, such as `Documents\HoloSnip`, and run `HoloSnip.exe`. If Windows warns you, choose **More info → Run anyway**.
+Download the zip from [Releases](https://github.com/solidpearls-code/HoloSnip-for-Looking-Glass/releases), extract it to a folder you can write to, such as `Documents\HoloSnip`, and run `HoloSnip.exe`. If Windows warns you, choose **More info → Run anyway**.
 
 To uninstall, turn off Settings → Start with Windows, quit, and delete the folder.
 
